@@ -1,0 +1,16 @@
+body{
+background-image: url(./images/TCbr2Uh.jpg);
+background-size:cover;
+background-position:center ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+.main{
+    color: aqua;
+}
+/* .containter{
+    
+    margin-left: 96px;
+    margin-top: 69px;
+} */
